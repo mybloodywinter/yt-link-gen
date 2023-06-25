@@ -36,5 +36,5 @@ while True:
         print(f"{Fore.CYAN}Your IP just got blocked !{Style.RESET_ALL}\n")
         break
     if check_if_available_to_view(LINK):
-        print(f"\n{Fore.GREEN}{LINK} | FOUND ! Working URL{Style.RESET_ALL}")
+        print(f"\n{Fore.GREEN}{LINK} | FOUND ! Working URL{Style.RESET_ALL}\n")
         break
